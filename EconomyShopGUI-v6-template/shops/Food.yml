@@ -1,20 +1,37 @@
 pages:
   page1:
     gui-rows: 6
+    title: "&8Food"
     items:
-      1:
-        material: COOKED_BEEF
-        buy: 12
-        sell: 4
-      2:
-        material: COOKED_PORKCHOP
-        buy: 12
-        sell: 4
-      3:
+      0:
         material: BREAD
-        buy: 8
-        sell: 3
+        buy: 8.0
+        sell: 2.0
+      1:
+        material: COOKED_CHICKEN
+        buy: 12.0
+        sell: 3.0
+      2:
+        material: COOKED_BEEF
+        buy: 15.0
+        sell: 3.75
+      3:
+        material: COOKED_PORKCHOP
+        buy: 15.0
+        sell: 3.75
       4:
-        material: GOLDEN_APPLE
-        buy: 500
-        sell: 100
+        material: COOKED_MUTTON
+        buy: 14.0
+        sell: 3.5
+      5:
+        material: COOKED_SALMON
+        buy: 18.0
+        sell: 4.5
+      6:
+        material: GOLDEN_CARROT
+        buy: 35.0
+        sell: 8.75
+      7:
+        material: APPLE
+        buy: 10.0
+        sell: 2.5
