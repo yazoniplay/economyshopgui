@@ -1,20 +1,41 @@
 pages:
   page1:
     gui-rows: 6
+    title: "&8Farming"
     items:
-      1:
+      0:
         material: WHEAT
-        buy: 8
-        sell: 3
-      2:
+        buy: 8.0
+        sell: 2.0
+      1:
         material: CARROT
-        buy: 8
-        sell: 3
-      3:
+        buy: 7.0
+        sell: 1.75
+      2:
         material: POTATO
-        buy: 8
-        sell: 3
+        buy: 7.0
+        sell: 1.75
+      3:
+        material: BEETROOT
+        buy: 8.0
+        sell: 2.0
       4:
         material: SUGAR_CANE
-        buy: 12
-        sell: 5
+        buy: 10.0
+        sell: 2.5
+      5:
+        material: CACTUS
+        buy: 12.0
+        sell: 3.0
+      6:
+        material: PUMPKIN
+        buy: 18.0
+        sell: 4.5
+      7:
+        material: MELON
+        buy: 14.0
+        sell: 3.5
+      8:
+        material: COCOA_BEANS
+        buy: 12.0
+        sell: 3.0
