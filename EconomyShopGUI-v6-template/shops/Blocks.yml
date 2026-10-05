@@ -1,0 +1,24 @@
+pages:
+  page1:
+    gui-rows: 6
+    items:
+      1:
+        material: STONE
+        buy: 4
+        sell: 1
+      2:
+        material: COBBLESTONE
+        buy: 3
+        sell: 1
+      3:
+        material: DIRT
+        buy: 3
+        sell: 1
+      4:
+        material: OAK_LOG
+        buy: 12
+        sell: 4
+      5:
+        material: SAND
+        buy: 5
+        sell: 2
