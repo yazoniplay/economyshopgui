@@ -1,13 +1,11 @@
 enable: true
-slot: 11
-title: '&6Food'
-hidden: false
+slot: 16
+title: "&8Food Shop"
 sub-section: false
-display-item: false
-fill-item:
-  material: AIR
-nav-bar:
-  mode: INHERIT
+hidden: false
+economy: VAULT
 item:
   material: COOKED_BEEF
-  name: '&6Food'
+  name: "&6&lFood"
+  lore:
+    - "&7Food and cooked items"
