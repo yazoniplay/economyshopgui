@@ -1,13 +1,11 @@
 enable: true
-slot: 13
-title: '&bOres'
-hidden: false
+slot: 12
+title: "&8Ores Shop"
 sub-section: false
-display-item: false
-fill-item:
-  material: AIR
-nav-bar:
-  mode: INHERIT
+hidden: false
+economy: VAULT
 item:
   material: DIAMOND
-  name: '&bOres'
+  name: "&b&lOres"
+  lore:
+    - "&7Ores, ingots and valuables"
