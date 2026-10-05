@@ -1,0 +1,76 @@
+# EconomyShopGUI v6-style configuration template
+config-version: 2.0.1.1
+language-file: lang-en.yml
+locale: en-US
+currency-format: '#,##0.00'
+update-checking: true
+debug: false
+
+economy-provider: VAULT
+
+main-menu:
+  gui-rows: 6
+  fill-item:
+    material: BLACK_STAINED_GLASS_PANE
+    name: ' '
+    enable: true
+
+main-menu-nav-bar:
+  enabled: true
+  items:
+    9:
+      material: BARRIER
+      name: '&cBack'
+      action: BACK
+
+shops-nav-bar:
+  enabled: true
+  items:
+    4:
+      material: ARROW
+      name: '&ePrevious Page'
+      action: PAGE_BACK
+    5:
+      material: PAPER
+      name: '&fPage'
+    6:
+      material: ARROW
+      name: '&eNext Page'
+      action: PAGE_NEXT
+    9:
+      material: BARRIER
+      name: '&cBack'
+      action: BACK
+
+transaction-screens-nav-bar:
+  enabled: true
+  items:
+    5:
+      material: REDSTONE_TORCH
+      name: '&eToggle buying/selling'
+      action: TOGGLE_MODE
+    9:
+      material: BARRIER
+      name: '&cBack'
+      action: BACK
+
+commands:
+  sellall: true
+  shop: true
+  sreload: true
+  editshop: true
+  sellgui: true
+  shopgive: true
+
+shop-commands:
+  - 'shop'
+  - 'market'
+
+sellall-commands:
+  - 'sellall'
+
+sellgui-commands:
+  - 'sellgui'
+
+override-sell-command: true
+old-sellall-command: false
