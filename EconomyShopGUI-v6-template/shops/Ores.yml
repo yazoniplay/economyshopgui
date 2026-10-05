@@ -1,24 +1,45 @@
 pages:
   page1:
     gui-rows: 6
+    title: "&8Ores"
     items:
-      1:
+      0:
         material: COAL
-        buy: 30
-        sell: 10
-      2:
+        buy: 8.0
+        sell: 2.0
+      1:
         material: IRON_INGOT
-        buy: 80
-        sell: 30
-      3:
+        buy: 18.0
+        sell: 4.5
+      2:
         material: GOLD_INGOT
-        buy: 120
-        sell: 45
+        buy: 28.0
+        sell: 7.0
+      3:
+        material: COPPER_INGOT
+        buy: 12.0
+        sell: 3.0
       4:
-        material: DIAMOND
-        buy: 500
-        sell: 200
+        material: REDSTONE
+        buy: 10.0
+        sell: 2.5
       5:
+        material: LAPIS_LAZULI
+        buy: 12.0
+        sell: 3.0
+      6:
+        material: DIAMOND
+        buy: 250.0
+        sell: 62.5
+      7:
         material: EMERALD
-        buy: 700
-        sell: 250
+        buy: 300.0
+        sell: 75.0
+      8:
+        material: QUARTZ
+        buy: 15.0
+        sell: 3.75
+      9:
+        material: NETHERITE_SCRAP
+        buy: 1000.0
+        sell: 250.0
