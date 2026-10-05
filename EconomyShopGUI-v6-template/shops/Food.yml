@@ -1,0 +1,20 @@
+pages:
+  page1:
+    gui-rows: 6
+    items:
+      1:
+        material: COOKED_BEEF
+        buy: 12
+        sell: 4
+      2:
+        material: COOKED_PORKCHOP
+        buy: 12
+        sell: 4
+      3:
+        material: BREAD
+        buy: 8
+        sell: 3
+      4:
+        material: GOLDEN_APPLE
+        buy: 500
+        sell: 100
