@@ -1,13 +1,11 @@
 enable: true
 slot: 10
-title: '&aBlocks'
-hidden: false
+title: "&8Blocks Shop"
 sub-section: false
-display-item: false
-fill-item:
-  material: AIR
-nav-bar:
-  mode: INHERIT
+hidden: false
+economy: VAULT
 item:
-  material: STONE
-  name: '&aBlocks'
+  material: GRASS_BLOCK
+  name: "&a&lBlocks"
+  lore:
+    - "&7Building blocks and common materials"
