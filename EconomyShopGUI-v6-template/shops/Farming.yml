@@ -1,0 +1,20 @@
+pages:
+  page1:
+    gui-rows: 6
+    items:
+      1:
+        material: WHEAT
+        buy: 8
+        sell: 3
+      2:
+        material: CARROT
+        buy: 8
+        sell: 3
+      3:
+        material: POTATO
+        buy: 8
+        sell: 3
+      4:
+        material: SUGAR_CANE
+        buy: 12
+        sell: 5
