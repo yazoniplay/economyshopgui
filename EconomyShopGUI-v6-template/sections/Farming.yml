@@ -1,13 +1,11 @@
 enable: true
 slot: 14
-title: '&aFarming'
-hidden: false
+title: "&8Farming Shop"
 sub-section: false
-display-item: false
-fill-item:
-  material: AIR
-nav-bar:
-  mode: INHERIT
+hidden: false
+economy: VAULT
 item:
   material: WHEAT
-  name: '&aFarming'
+  name: "&e&lFarming"
+  lore:
+    - "&7Seeds, crops and farming supplies"
