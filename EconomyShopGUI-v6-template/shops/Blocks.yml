@@ -1,24 +1,53 @@
 pages:
   page1:
     gui-rows: 6
+    title: "&8Blocks"
     items:
-      1:
+      0:
         material: STONE
-        buy: 4
-        sell: 1
-      2:
+        buy: 2.0
+        sell: 0.5
+      1:
         material: COBBLESTONE
-        buy: 3
-        sell: 1
+        buy: 1.5
+        sell: 0.35
+      2:
+        material: ANDESITE
+        buy: 3.0
+        sell: 0.75
       3:
-        material: DIRT
-        buy: 3
-        sell: 1
+        material: DIORITE
+        buy: 3.0
+        sell: 0.75
       4:
-        material: OAK_LOG
-        buy: 12
-        sell: 4
+        material: GRANITE
+        buy: 3.0
+        sell: 0.75
       5:
+        material: DEEPSLATE
+        buy: 4.0
+        sell: 1.0
+      6:
+        material: GLASS
+        buy: 5.0
+        sell: 1.25
+      7:
+        material: BRICKS
+        buy: 12.0
+        sell: 3.0
+      8:
+        material: OBSIDIAN
+        buy: 80.0
+        sell: 20.0
+      9:
         material: SAND
-        buy: 5
-        sell: 2
+        buy: 3.0
+        sell: 0.75
+      10:
+        material: GRAVEL
+        buy: 3.0
+        sell: 0.75
+      11:
+        material: CLAY
+        buy: 5.0
+        sell: 1.25
