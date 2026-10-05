@@ -1,0 +1,24 @@
+pages:
+  page1:
+    gui-rows: 6
+    items:
+      1:
+        material: COAL
+        buy: 30
+        sell: 10
+      2:
+        material: IRON_INGOT
+        buy: 80
+        sell: 30
+      3:
+        material: GOLD_INGOT
+        buy: 120
+        sell: 45
+      4:
+        material: DIAMOND
+        buy: 500
+        sell: 200
+      5:
+        material: EMERALD
+        buy: 700
+        sell: 250
